@@ -1,0 +1,31 @@
+body {
+    background-color: #f1f1f1;
+    font-family: arial;
+    text-align: center;
+    margin: 0;
+}
+/* Título */
+h1 {
+    background-color: black ;
+    color: white;
+    padding: 10px 0 10px 0;
+    width: 100%;
+}
+
+/* Subtítulo */
+h2,p {
+    text-align: left;
+    padding: 0 0 0 50px;
+}
+
+.rodape a {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 950;
+}
+
+.rodape a:hover {
+    color: green;
+    font-size: 18px;
+}
